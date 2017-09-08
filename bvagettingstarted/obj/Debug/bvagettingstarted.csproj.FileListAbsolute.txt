@@ -1,0 +1,11 @@
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\bin\Debug\bvagettingstarted.exe.config
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\bin\Debug\bvagettingstarted.exe
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\bin\Debug\bvagettingstarted.pdb
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.csprojResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.Properties.Resources.resources
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.csproj.GenerateResource.Cache
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.exe
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.pdb
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.Page1.resources
+c:\users\will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.Page2.resources
+C:\Users\Will\documents\visual studio 2017\Projects\bvagettingstarted\bvagettingstarted\obj\Debug\bvagettingstarted.Page3.resources
